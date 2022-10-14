@@ -1,0 +1,25 @@
+main, footer {
+    text-align: center;
+    }
+
+.tittle strong {
+    color: #6C63FF
+    }
+
+.text span {
+    color: #6C63FF
+    }
+h1 {
+    font-size: 15 px;
+    font-family: Inter;
+    }
+footer a {
+    margin-left: 20px;
+}
+
+footer {
+    margin-top: 50px;
+    border-top: solid 1px black;
+    padding-top: 20px
+
+}
